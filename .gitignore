@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+.DS_Store
+node_modules/
+target/
+npm-debug.log*
+BEFORE_USE.md
+codeDesign/
+psd/
