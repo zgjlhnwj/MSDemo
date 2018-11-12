@@ -1,0 +1,16 @@
+{
+  "language":"English",
+  "country":"USA",
+  "region":"NewYork",
+  "orderManage":"orderManage",
+  "orderNo":"Order No",
+  "recievePerson":"Recieve Person",
+  "phoneNumber":"Phone Number",
+  "address":"address",
+  "email":"E-mail",
+  "remark":"Remark",
+  "operation":"operation",
+  "look":"look",
+  "modify":"modify",
+  "delete":"delete"
+}

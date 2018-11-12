@@ -7,3 +7,4 @@ npm-debug.log*
 BEFORE_USE.md
 codeDesign/
 psd/
+package-lock.json
