@@ -1,9 +1,8 @@
 import demolist from './demoData'
 import sysList from './sysData'
 import orderList from './orderData'
-import activityList from './activityData'
 
-var data = [].concat(demolist, sysList, orderList, activityList)
+var data = [].concat(demolist, sysList, orderList)
 
 console.log('list',data)
 
