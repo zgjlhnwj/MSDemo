@@ -133,7 +133,7 @@
             //切换语言
             changeLanguage(val){
                 //this.$i18n.locale = val  //这是常规写法，但是已经把i18n挂为全局变量,所以可以使用如下写法
-                i18n.locale = val
+                window.i18n.locale = val
             }
         }
     }
